@@ -1,6 +1,6 @@
 # Python para Ciencias de Datos
 
-<img src="banners/express-logo-banner.png">
+<img src="banners/python_banner.png">
 <div align="center">
 	<table>
 		<thead>
