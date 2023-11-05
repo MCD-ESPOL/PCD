@@ -1,6 +1,6 @@
 # Python para Ciencias de Datos
 
-<img src="banners/python_banner.png">
+<img src="images/python_banner.png">
 <div align="center">
 	<table>
 		<thead>
