@@ -11,7 +11,7 @@
 		<tbody>
 			<tr>
 				<td>
-					<a href="notebooks/notebook01.ipynb">1. Jupyter Notebook</a>				
+					<a href="notebooks/notebook01.ipynb">1. Anaconda y Jupyter Notebooks</a>				
 				</td>
 				<td>
 					<a href="notebooks/notebook02.ipynb">2. Conceptos básicos</a>
