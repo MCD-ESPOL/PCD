@@ -27,10 +27,10 @@
       			</tr>
 			<tr>
 				<td>
-					<a href="notebooks/notebook05.ipynb">5. Cadenas de caracteres</a>				
+					<a href="notebooks/notebook05.ipynb">5. Funciones</a>				
 				</td>
 				<td>
-					<a href="notebooks/notebook06.ipynb">6. Listas</a>
+					<a href="notebooks/notebook06.ipynb">6. Arreglos</a>
 				</td>
       			</tr>
 		</tbody>
