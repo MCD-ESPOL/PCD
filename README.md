@@ -22,7 +22,7 @@
 					<a href="notebooks/notebook03.ipynb">3. Estructuras de control</a>				
 				</td>
 				<td>
-					<a href="notebooks/notebook04.ipynb">4. Listas</a>
+					<a href="notebooks/notebook04.ipynb">4. Funciones</a>
 				</td>
       </tr>
 		</tbody>
