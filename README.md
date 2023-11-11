@@ -27,7 +27,7 @@
       			</tr>
 			<tr>
 				<td>
-					<a href="notebooks/notebook05.ipynb">5. Visualización</a>				
+					<a href="notebooks/notebook05.ipynb">5. Visualización: Matplotlib</a>				
 				</td>
 				<td>
 					<a href="notebooks/notebook06.ipynb">6. Estructuras de control - II</a>
