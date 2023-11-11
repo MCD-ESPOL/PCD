@@ -27,10 +27,10 @@
       			</tr>
 			<tr>
 				<td>
-					<a href="notebooks/notebook05.ipynb">5. Estructuras de control - II</a>				
+					<a href="notebooks/notebook05.ipynb">5. Visualización</a>				
 				</td>
 				<td>
-					<a href="notebooks/notebook06.ipynb">6. Funciones</a>
+					<a href="notebooks/notebook06.ipynb">6. Estructuras de control - II</a>
 				</td>
       			</tr>
 		</tbody>
