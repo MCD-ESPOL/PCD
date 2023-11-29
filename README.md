@@ -34,10 +34,10 @@
 			</tr>
 			<tr>
 				<td>
-					<a href="notebooks/notebook05.ipynb">7. Arreglos</a>
+					<a href="notebooks/notebook07.ipynb">7. Arreglos</a>
 				</td>
 				<td>
-					<a href="notebooks/notebook06.ipynb">8. Matrices</a>
+					<a href="notebooks/notebook08.ipynb">8. Matrices</a>
 				</td>
 			</tr>
 		</tbody>
