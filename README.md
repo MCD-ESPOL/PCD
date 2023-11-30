@@ -36,6 +36,9 @@
 				<td>
 					<a href="notebooks/notebook07.ipynb">7. Arreglos</a>
 				</td>
+				<td>
+					<a href="notebooks/notebook08.ipynb">8. Matrices</a>
+				</td>
 			</tr>
 		</tbody>
 	</table>
