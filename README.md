@@ -40,6 +40,14 @@
 					<a href="notebooks/notebook08.ipynb">8. Matrices</a>
 				</td>
 			</tr>
+			<tr>
+				<td>
+					<a href="notebooks/notebook09.ipynb">9. Operaciones entre Arreglo y Matrices</a>
+				</td>
+				<td>
+					<a href="notebooks/notebook10.ipynb">10. Pandas</a>
+				</td>
+			</tr>
 		</tbody>
 	</table>
 </div>
