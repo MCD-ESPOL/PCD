@@ -16,6 +16,11 @@
 					<a href="notebooks/notebook02.ipynb">2. Conceptos básicos</a>
 				</td>
 			</tr>
+			<tr>
+				<td>
+					<a href="notebooks/notebook03.ipynb">3. Estructuras de control - I</a>
+				</td>
+			</tr>
 		</tbody>
 	</table>
 </div>
