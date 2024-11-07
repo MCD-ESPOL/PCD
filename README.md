@@ -21,7 +21,7 @@
 					<a href="notebooks/notebook03.ipynb">3. Estructuras de control - I</a>
 				</td>
 				<td>
-					<a href="notebooks/notebook04-1.ipynb">4. Listas - I</a>
+					<a href="notebooks/notebook04-01.ipynb">4. Listas - I</a>
 				</td>
 			</tr>
 		</tbody>
