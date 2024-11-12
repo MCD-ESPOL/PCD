@@ -28,6 +28,9 @@
 				<td>
 					<a href="notebooks/notebook04-02.ipynb">4. Listas - II</a>
 				</td>
+				<td>
+					<a href="notebooks/notebook05.ipynb">5. Visualización: Matplotlib</a>
+				</td>
 			</tr>
 		</tbody>
 	</table>
