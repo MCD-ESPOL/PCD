@@ -34,18 +34,18 @@
 			</tr>
 			<tr>
 				<td>
-					<a href="notebooks/notebook07.ipynb">6. Arreglos</a>
+					<a href="notebooks/notebook06.ipynb">6. Arreglos</a>
 				</td>
 				<td>
-					<a href="notebooks/notebook08.ipynb">7. Matrices</a>
+					<a href="notebooks/notebook07.ipynb">7. Matrices</a>
 				</td>
 			</tr>
 			<tr>
 				<td>
-					<a href="notebooks/notebook09.ipynb">8. Operaciones entre Arreglos y Matrices</a>
+					<a href="notebooks/notebook08.ipynb">8. Operaciones entre Arreglos y Matrices</a>
 				</td>
 				<td>
-					<a href="notebooks/notebook10.ipynb">9. Pandas</a>
+					<a href="notebooks/notebook09.ipynb">9. Pandas</a>
 				</td>
 			</tr>
 		</tbody>
