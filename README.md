@@ -50,7 +50,7 @@
 			</tr>
 			<tr>
 				<td colspan="2">
-					<a href="notebooks/ProyectoFinal.ipynb">Proyecto Final/a>
+					<a href="notebooks/ProyectoFinal.ipynb">Proyecto Final</a>
 				</td>
 			</tr>
 		</tbody>
