@@ -48,6 +48,11 @@
 					<a href="notebooks/notebook09.ipynb">9. Pandas</a>
 				</td>
 			</tr>
+			<tr>
+				<td colspan="2">
+					<a href="notebooks/ProyectoFinal.ipynb">Proyecto Final/a>
+				</td>
+			</tr>
 		</tbody>
 	</table>
 </div>
